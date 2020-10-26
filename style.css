@@ -1,0 +1,20 @@
+#myCarousel {
+    background-color: aqua;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: chartreuse;
+    font-size: 25px;
+}
+
+.avengers {
+    height: 300px;
+    width: auto;
+}
